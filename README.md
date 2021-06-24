@@ -23,4 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juleslegros&show_icons=true&locale=fr&layout=compact" alt="juleslegros" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juleslegros&show_icons=true&locale=en" alt="juleslegros" /></p>
