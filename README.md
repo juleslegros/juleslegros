@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">My name is Jules. I'm a 15 years old French boy 🇫🇷, passionate from my youngest age about computer development 🔨⚙️💻. I am available for projects, collaborations and experiments.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juleslegros&label=Profile%20views&color=0e75b6&style=flat" alt="juleslegros" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleslegros" alt="juleslegros" /></a> </p>
-
 - 🧑🏻‍💻 Je travaille actuellement sur **mon site web**
 
 - 📚 Je suis actuellement en train d'apprendre le **PHP**
@@ -12,6 +8,10 @@
 - 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
 
 - ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juleslegros&label=Profile%20views&color=0e75b6&style=flat" alt="juleslegros" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleslegros" alt="juleslegros" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
