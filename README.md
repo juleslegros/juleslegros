@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
-<h3 align="center">Ma passion est le développement ⚙️🔨</h3>
+<h3 align="center">My name is Jules. I'm a 15 years old French boy 🇫🇷, passionate from my youngest age about computer development 🔨⚙️💻. I am available for projects, collaborations and experiments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juleslegros&label=Profile%20views&color=0e75b6&style=flat" alt="juleslegros" /> </p>
 
