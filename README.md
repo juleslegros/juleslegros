@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">My name is Jules. I'm a 15 years old French boy 🇫🇷, passionate from my youngest age about computer development 🔨⚙️💻. I am available for projects, collaborations and experiments.</h3>
-
+<br>
+<br>
 - 🧑🏻‍💻 Je travaille actuellement sur **mon site web**
 
 - 📚 Je suis actuellement en train d'apprendre le **PHP**
