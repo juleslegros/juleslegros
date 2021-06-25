@@ -3,13 +3,13 @@
 <br>
 <br>
 
-- 🧑🏻‍💻 Je travaille actuellement sur **mon site web**
+> - 🧑🏻‍💻 Je travaille actuellement sur **mon site web**
 
-- 📚 Je suis actuellement en train d'apprendre le **PHP**
+> - 📚 Je suis actuellement en train d'apprendre le **PHP**
 
-- 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
+> - 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
 
-- ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
+> - ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
 
 <br>
 <br>
