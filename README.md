@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleslegros" alt="juleslegros" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **mon site web**
+- 🧑🏻‍💻 Je travaille actuellement sur **mon site web**
 
-- 🌱 Je suis actuellement en train d'apprendre le **PHP**
+- 📚 Je suis actuellement en train d'apprendre le **PHP**
 
 - 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
 
-- 📫 Comment me contacter ? **juleslegros77130@icloud.com**
+- ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
