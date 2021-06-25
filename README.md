@@ -2,6 +2,7 @@
 <h3 align="center">My name is Jules. I'm a 15 years old French boy 🇫🇷, passionate from my youngest age about computer development 🔨⚙️💻. I am available for projects, collaborations and experiments.</h3>
 <br>
 <br>
+
 - 🧑🏻‍💻 Je travaille actuellement sur **mon site web**
 
 - 📚 Je suis actuellement en train d'apprendre le **PHP**
@@ -9,7 +10,7 @@
 - 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
 
 - ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
-- 
+
 <br>
 <br>
 
