@@ -9,6 +9,9 @@
 - 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
 
 - ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
+- 
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juleslegros&label=Profile%20views&color=0e75b6&style=flat" alt="juleslegros" /> </p>
 
