@@ -6,9 +6,7 @@
 
 > - 📚 Je suis actuellement en train d'apprendre le **PHP**
 
-> - 🤝 Je cherche de l'aide pour **apprendre à maîtriser les bases du PHP**
-
-> - ✉️ Comment me contacter ? **juleslegros77130@icloud.com**
+> - ✉️ Comment me contacter ? **jules.legros.pro@gmail.com**
 
 <br>
 <br>
